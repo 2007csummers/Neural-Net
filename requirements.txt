@@ -1,0 +1,4 @@
+keras
+TensorFlow
+tkinter
+PIL
